@@ -27,6 +27,22 @@
     "my-space": {
       "value": "40",
       "type": "spacing"
+    },
+    "font": {
+      "value": {
+        "fontFamily": "poppins",
+        "fontWeight": "bold",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    },
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "textcase": {
+      "value": "uppercase",
+      "type": "textCase"
     }
   },
   "$themes": [],
