@@ -1,10 +1,10 @@
 {
   "global": {
     "blue": {
-      "value": "#f00",
+      "value": "#1200ff",
       "type": "color"
     },
-    "border_radius": {
+    "border-radius": {
       "value": "8",
       "type": "borderRadius"
     },
@@ -12,7 +12,7 @@
       "value": "56",
       "type": "sizing"
     },
-    "border_width": {
+    "border-width": {
       "value": "2",
       "type": "borderWidth"
     },
@@ -24,7 +24,7 @@
       },
       "type": "border"
     },
-    "my_space": {
+    "my-space": {
       "value": "40",
       "type": "spacing"
     }
