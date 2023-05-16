@@ -3,6 +3,26 @@
     "blue": {
       "value": "#f00",
       "type": "color"
+    },
+    "border_radius": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "size": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "border_width": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "border_color": {
+      "value": {
+        "color": "#000",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "$themes": [],
