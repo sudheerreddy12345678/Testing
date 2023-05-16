@@ -16,7 +16,7 @@
       "value": "2",
       "type": "borderWidth"
     },
-    "border_color": {
+    "border-color": {
       "value": {
         "color": "#000",
         "width": "2",
