@@ -5,7 +5,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "8",
+      "value": "8px",
       "type": "borderRadius"
     },
     "size": {
@@ -13,19 +13,19 @@
       "type": "sizing"
     },
     "border-width": {
-      "value": "2",
+      "value": "8px",
       "type": "borderWidth"
     },
     "border-color": {
       "value": {
-        "color": "#000",
+        "color": "#f00",
         "width": "2px",
         "style": "solid"
       },
       "type": "border"
     },
     "my-space": {
-      "value": "40",
+      "value": "40px",
       "type": "spacing"
     },
     "font": {
