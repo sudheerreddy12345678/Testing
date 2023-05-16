@@ -13,13 +13,13 @@
       "type": "sizing"
     },
     "border-width": {
-      "value": "40px",
+      "value": "8px",
       "type": "borderWidth"
     },
     "border-color": {
       "value": {
         "color": "#f00",
-        "width": "2px",
+        "width": "{border-width}",
         "style": "solid"
       },
       "type": "border"
