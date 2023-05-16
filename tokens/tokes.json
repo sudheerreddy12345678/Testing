@@ -9,7 +9,7 @@
       "type": "borderRadius"
     },
     "size": {
-      "value": "56",
+      "value": "56px",
       "type": "sizing"
     },
     "border-width": {
@@ -18,7 +18,7 @@
     },
     "border-color": {
       "value": {
-        "color": "#f00",
+        "color": "#000",
         "width": "2px",
         "style": "solid"
       },
@@ -32,7 +32,7 @@
       "value": {
         "fontFamily": "poppins",
         "fontWeight": "bold",
-        "fontSize": "14"
+        "fontSize": "14px"
       },
       "type": "typography"
     },
