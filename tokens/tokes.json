@@ -23,6 +23,10 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "myspace": {
+      "value": "40",
+      "type": "spacing"
     }
   },
   "$themes": [],
