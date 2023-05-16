@@ -1,7 +1,7 @@
 {
   "global": {
-    "red": {
-      "value": "#ff0f0f",
+    "blue": {
+      "value": "#0005fb",
       "type": "color"
     }
   },
